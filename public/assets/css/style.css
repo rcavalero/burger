@@ -1,4 +1,8 @@
-li {
+ body {
+   background-color: lightgrey;
+ }
+ 
+ li {
     padding: 5px;
     margin: 5px;
     background: #faebd7;
@@ -16,5 +20,10 @@ li {
   
   .form-group {
     margin-bottom: 5px;
+  }
+
+  img {
+    height: 500px;
+    width: 500px;
   }
   
