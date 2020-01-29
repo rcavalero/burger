@@ -13,6 +13,7 @@
 --    * Close out of the MySQL command line tool: `exit`.
 
 INSERT INTO burgers (burger_name) VALUES ('Cheeseburger');
-INSERT INTO burgers (burger_name) VALUES ('Deluxe');
+INSERT INTO burgers (burger_name) VALUES ('Deluxe Cheeseburger');
 INSERT INTO burgers (burger_name) VALUES ('Burger Dip');
+INSERT INTO burgers (burger_name) VALUES ('Mushroom Burger');
 

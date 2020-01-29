@@ -26,4 +26,16 @@
     height: 500px;
     width: 500px;
   }
+
+  .container {
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+  }
+  .burger-pic {
+    grid-column: span 5;
+    margin: 50px;
+  }
+  .burgers {
+    grid-column: span 4;
+  }
   
